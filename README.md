@@ -1,14 +1,14 @@
 ### Hi, I'm Kateri 👋
+/kə'tɛri/
 
 
 - 📝 I’m currently working on: my SQL portfolio
 - 🌱 I’m currently learning: Tableau
-<!-- 💼 BS in CS, Minor in Linguistics, and Certificate in Data Science -->
 - 💬 Ask me about my most recent crochet project!
+<!-- 💼 BS in CS, Minor in Linguistics, and Certificate in Data Science -->
 
-[![](https://img.shields.io/badge/linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/kbarano/)
+[![](https://img.shields.io/badge/linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/kbarano/) [![](https://img.shields.io/badge/badges-2D4E00?style=flat-square)](https://www.credly.com/users/kateri-arano)
 <!-- [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](http://) -->
-[![](https://img.shields.io/badge/badges-2D4E00?style=flat-square)](https://www.credly.com/users/kateri-arano)
 
 <!--
 **katericodes/katericodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
