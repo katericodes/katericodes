@@ -1,6 +1,6 @@
-### Hi, I'm Kateri 👋
-/kə'tɛri/
+**Hi, I'm Kateri 👋**
 
+/kə'tɛri/
 
 - 📝 I’m currently working on: improving my SQL skills
 - 🌱 I’m currently learning: Tableau
