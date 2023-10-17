@@ -2,7 +2,7 @@
 /kə'tɛri/
 
 
-- 📝 I’m currently working on: my SQL portfolio
+- 📝 I’m currently working on: improving my SQL skills
 - 🌱 I’m currently learning: Tableau
 - 💬 Ask me about my most recent crochet project!
 <!-- 💼 BS in CS, Minor in Linguistics, and Certificate in Data Science -->
