@@ -4,8 +4,8 @@
 
 - 💼 I graduated with a BS in Computer Science, Minor in Linguistics, and Certificate in Data Science.
 - 📝 I’m currently working on a portfolio to showcase my skills in SQL, Python, and Excel.
-- 🌱 I’m currently learning: Tableau
-- 💬 Ask me about my most recent crochet project!
+- 🌱 I’m currently learning: Power BI
+<!-- - 💬 Ask me about my most recent crochet project! -->
 <!-- 📝 I’m currently working on: improving my SQL skills -->
 
 [![](https://img.shields.io/badge/linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/kbarano/) [![](https://img.shields.io/badge/badges-2D4E00?style=flat-square)](https://www.credly.com/users/kateri-arano)
